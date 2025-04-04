@@ -1,0 +1,19 @@
+Ethan, Jones, 60, 07404040404, Q6 789, Neurological, Not Assigned, Stroke, Parkinson’s  
+James, Brown, 50, 07888888888, K0 123, Cardiovascular, Not Assigned, Hypertension, Heart Disease  
+Mia, Smith, 26, 07303030303, P5 678, Common, Not Assigned, Tonsillitis, Sinusitis  
+Lucas, Williams, 18, 07202020202, O4 567, Dermatological, Not Assigned, Skin Infection, Acne  
+Mike, Jones, 37, 07555551234, L2 2AB, Gastrointestinal, Not Assigned, Nausea, Vomiting  
+Charlotte, Brown, 22, 07777777777, J9 012, Common, Not Assigned, Cold, Fever  
+Emma, Smith, 25, 07111111111, D3 456, Respiratory, Not Assigned, Asthma, Cough  
+Sophia, Williams, 32, 07999999999, L1 234, Respiratory, Not Assigned, Pneumonia, Bronchitis  
+Noah, Jones, 45, 07444444444, G6 789, Musculoskeletal, Not Assigned, Fracture, Joint Pain  
+David, Smith, 15, 07123456789, C1 ABC, Cardiovascular, Not Assigned, Chest Pain, High BP  
+Olivia, Jones, 40, 07333333333, F5 678, Endocrine, Not Assigned, Diabetes, Thyroid Disorder  
+Ava, Brown, 28, 07555555555, H7 890, Dermatological, Not Assigned, Eczema, Psoriasis  
+Amelia, Williams, 55, 07101010101, N3 456, Musculoskeletal, Not Assigned, Arthritis, Osteoporosis  
+Harper, Brown, 31, 07505050505, R7 890, Gastrointestinal, Not Assigned, Constipation, Diarrhea  
+Liam, Smith, 30, 07222222222, E4 567, Neurological, Not Assigned, Migraine, Seizures  
+Henry, Williams, 27, 07606060606, S8 901, Dental, Not Assigned, Dental Caries, Bruxism  
+Elijah, Brown, 35, 07666666666, I8 901, Dental, Not Assigned, Toothache, Gingivitis  
+Benjamin, Williams, 29, 07000000000, M2 345, Gastrointestinal, Not Assigned, IBS, Acid Reflux  
+Sara, Smith, 20, 07012345678, B1 234, Neurological, Not Assigned, Anxiety, Depression
